@@ -26,6 +26,8 @@ public class LoginSteps {
 
     @Quando("for realizado um clique no link Create New Account")
     public void forRealizadoUmCliqueNoLinkCreateNewAccount() {
+
+
         
     }
 
