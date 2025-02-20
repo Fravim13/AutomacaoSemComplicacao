@@ -44,6 +44,8 @@ Funcionalidade: Login
       | usuario invalido | invalido | senha    | false    |
       | senha invalida   | chronos  | invalido | false    |
 
+
+
   Esquema do Cenario: Realizar login com <identificacao>
     Quando os campos de login sejam preenchidos da seguinte forma
       | login    | <login>    |
